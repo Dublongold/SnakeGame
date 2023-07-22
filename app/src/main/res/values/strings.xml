@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="app_title">Snake</string>
+    <string name="start_button">Start</string>
+    <string name="options_button">Options</string>
+    <string name="exit_button">Exit</string>
+    <string name="language_text">Language: </string>
+    <string name="speed_text">Speed: %s</string>
+    <string name="music_volume">Music volume: %d%%</string>
+    <string name="score">Score: %s</string>
+    <string name="max_score_info">Max score: %s</string>
+    <string name="credits">Created by Dublongold in Android Studio with Jetpack Compose.</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="russian">Russian</string>
+    <string name="time">Time: %s s</string>
+    <string name="game_over">Game over</string>
+    <string name="game_result">Score: %s%s\nTime: %s s</string>
+    <string name="new_record_part">\nNew record!</string>
+    <string name="play_gain">Play again</string>
+    <string name="go_to_menu">Go to menu</string>
+    <string name="want_clear_data">Clear your saved data: </string>
+    <string name="confirm_clear_data">Are you sure you want to clear? </string>
+    <string name="clear">Clear</string>
+    <string name="confirm_clear">Clear!</string>
+    <string name="saved_data_cleared_successfully">Saved data cleared successfully</string>
+</resources>

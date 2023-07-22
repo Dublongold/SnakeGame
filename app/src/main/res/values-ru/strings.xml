@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="app_title">Змейка</string>
+    <string name="start_button">Начать</string>
+    <string name="options_button">Настройки</string>
+    <string name="exit_button">Выход</string>
+    <string name="language_text">Язык: </string>
+    <string name="speed_text">Скорость: %s</string>
+    <string name="music_volume">Громкость музыки: %d%%</string>
+    <string name="score">Счёт: %s</string>
+    <string name="max_score_info">Максимальний счёт: %s</string>
+    <string name="credits">Создано Dublongold\'ом в Android Studio с помощью Jetpack Compose</string>
+    <string name="english">Английский</string>
+    <string name="ukrainian">Украинский</string>
+    <string name="russian">Русский</string>
+    <string name="time">Время: %s с</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="game_result">Счёт: %s%s\nВремя: %s с</string>
+    <string name="new_record_part">\nНовый рекорд!</string>
+    <string name="play_gain">Сыграть ещё</string>
+    <string name="go_to_menu">Вернуться в меню</string>
+    <string name="want_clear_data">Очистить ваши сохраннёные данные: </string>
+    <string name="confirm_clear_data">Вы уверены, что хотите очистить? </string>
+    <string name="clear">Очистить</string>
+    <string name="confirm_clear">Очистить!</string>
+    <string name="saved_data_cleared_successfully">Сохраннёные данные очищены успешно!</string>
+</resources>
